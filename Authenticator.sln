@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authenticator", "Authenticator\Authenticator.csproj", "{768DDA9D-69F5-42C5-B8D7-0AC6BEFD4076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettingManager", "SettingManager\SettingManager.csproj", "{D7CEE7F4-E4F6-461D-AB38-6176B6A0D3F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{768DDA9D-69F5-42C5-B8D7-0AC6BEFD4076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768DDA9D-69F5-42C5-B8D7-0AC6BEFD4076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768DDA9D-69F5-42C5-B8D7-0AC6BEFD4076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768DDA9D-69F5-42C5-B8D7-0AC6BEFD4076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7CEE7F4-E4F6-461D-AB38-6176B6A0D3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CEE7F4-E4F6-461D-AB38-6176B6A0D3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CEE7F4-E4F6-461D-AB38-6176B6A0D3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CEE7F4-E4F6-461D-AB38-6176B6A0D3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D837EE4-92A3-4348-BA77-80B625312DE2}
+	EndGlobalSection
+EndGlobal
